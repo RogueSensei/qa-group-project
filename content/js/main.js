@@ -1,0 +1,3 @@
+function buttonSay() {
+    alert('Hello!');
+}
