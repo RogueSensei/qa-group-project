@@ -1,1 +1,3 @@
-document.write('Hi');
+function buttonSay() {
+    alert('Hello!');
+}
